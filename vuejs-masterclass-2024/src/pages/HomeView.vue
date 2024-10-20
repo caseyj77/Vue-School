@@ -4,7 +4,7 @@
 <template>
     <div>
         <h1>Home Page</h1>
-        <RouterLink to='/projects'>Projects</RouterLink>
+        <RouterLink to='/projectView'>Projects</RouterLink>
     </div>
 
 </template>
